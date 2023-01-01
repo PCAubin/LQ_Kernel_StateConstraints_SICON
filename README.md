@@ -21,7 +21,7 @@ path-planning problem.
 
 ## Reference
 
-Arxiv link: https://arxiv.org/abs/2011.02196#
+Arxiv link: https://arxiv.org/abs/2011.02196
 
 SIAM: https://epubs.siam.org/doi/abs/10.1137/20M1348765
 
